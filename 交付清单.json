@@ -1,0 +1,2352 @@
+{
+  "date": "2026-10-22",
+  "source": "E:\\mc\\.minecraft\\versions\\mod test\\versions\\1.20.1-Forge_47.4.26\\config\\yes_steve_model\\custom",
+  "status": "当前已安装资源的完整副本，供作者信息与备注修改；尚未加密导出或上传",
+  "packs": 15,
+  "colors_per_pack": 4,
+  "files_total": 441,
+  "source_and_copy_hashes_match": true,
+  "diagnostic_resources_absent": true,
+  "rows": [
+    {
+      "folder": "dragon_maid_stage1",
+      "element": "fire",
+      "stage": 1,
+      "display_name": "火龙女仆 · 四配色 · 阶段1",
+      "metadata_file": "dragon_maid_stage1/ysm.json",
+      "files": [
+        {
+          "path": "17_mini原始署名与许可.json",
+          "sha256": "b52fe83a78a4c4cebdf8b738c92c8a9cde195bf9e475f7a1b1e9db50909ae39b",
+          "bytes": 3958
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "d2b81a98b1e2e343e7878bf2ffd4c0ed29d826c803d092957b1164c7f2b03ddb",
+          "bytes": 111538
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "720bf83cf17e9536237ca3f459b43bb13daba8a32d072a6dbf5b31b581313977",
+          "bytes": 5399979
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "4494f24312c63ede09a15f63f172274796498e75c7382cebd5ec62413c02627f",
+          "bytes": 546547
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "83d6da736f9aa03d5f9822d5829b17b44b2de1872cfdf6a8e1f48cd8b1695b7c",
+          "bytes": 1116021
+        },
+        {
+          "path": "avatar/1.png",
+          "sha256": "5022241f28fa33489f123cecdb1830b2064e589c90188b9a355be4bff65b8f67",
+          "bytes": 2758
+        },
+        {
+          "path": "avatar/y.png",
+          "sha256": "0c9b472e22ef2b966973f530e784dfe924ec819e3cf69006e8a1b1a8ff76c201",
+          "bytes": 1693
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "dd19d85f772032abf375ffea7b3fb7ac7b2e92242c07b0f4e48867b60dc491c8",
+          "bytes": 3140
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "fd5250d547ac80c806b96c8ae3b0d53a97279a841a6719f9d7cd3960bda01e87",
+          "bytes": 3272
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "016780cd2e91598a01fa42bc3f8c2459350ecec6c2e99d6fd684c2c17668fe76",
+          "bytes": 16155
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "014570464ba70b957d4c4b95d0c2a5c50578870b2163dc1c63aaf0020ec39762",
+          "bytes": 179443
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "73bd4e0920088baa3f2291e7c85626a828fdb921dcc611af22db10d4a8491bdf",
+          "bytes": 74661
+        },
+        {
+          "path": "textures/skin_bronze.png",
+          "sha256": "87ec669eaabec0a69f71d6b36494c1d05d47b271b6babc3ea7260af8bdac8c2f",
+          "bytes": 76970
+        },
+        {
+          "path": "textures/skin_gray.png",
+          "sha256": "61a21c5bf43b034d8c398babd408d77c4b8492b7361f6da5f7adc7293c053dee",
+          "bytes": 76837
+        },
+        {
+          "path": "textures/skin_green.png",
+          "sha256": "09aef6e158a618a895c1c2973389c6d2d04ba1c02ee20ff7079b8e3909c2f9e3",
+          "bytes": 76818
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "63edad0e46753d6e84795eabd498af1ebe88c6d75bc43500a5f72afc6b742116",
+          "bytes": 3276
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_stage2",
+      "element": "fire",
+      "stage": 2,
+      "display_name": "火龙女仆 · 四配色 · 阶段2",
+      "metadata_file": "dragon_maid_stage2/ysm.json",
+      "files": [
+        {
+          "path": "12_little原始署名与许可.json",
+          "sha256": "cc46d764c6d01d476c427421a8c402a0bfb33fc41175e068da3974b72d40f368",
+          "bytes": 2508
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "a9c40e06d2b5d2557301a79c01187f6ab0c948535e06ae2deba1a916fa1aa1c3",
+          "bytes": 111372
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "e09b3c27134f3d7e1104435f9ada9883cfe1a46bee1382031097f29715b23b0e",
+          "bytes": 5460603
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "7680f1f239562bdd71e8042f96801e51bf5cff90a8742fbc9e067cd7fd946754",
+          "bytes": 735035
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "2c76d3813c5aa20b9d011eef67f17697e425d047f31594a2941e51418f882d6f",
+          "bytes": 1115132
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/ry.png",
+          "sha256": "38676f6ab126383b35b05846fec4f3f0d0012c06d0ff0a841fa01df0ae1aa3ac",
+          "bytes": 44859
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "bacd8030da58f5c0e0669192d0435609b48bace1f7f05465be881cc19b294899",
+          "bytes": 831
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "9f046af50e66b633c22b7a7c32eac99e88bbda09f0611ed29f56d1942ea7b88a",
+          "bytes": 1016
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "b708a4ff8a14a008b26d50c46ed5d3f7ef7bd956c9b3119d4f4bc22f34087f1d",
+          "bytes": 21517
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "fdd91fd63b9f22d8416b92d7a3b29c41c27764e4cbb4c4c1f6cca3f3c5c4cc5e",
+          "bytes": 148334
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "4d37a0a669cb1b3888e7ed538a026f7276b95f346bb4b70aa22e84d981733620",
+          "bytes": 33985
+        },
+        {
+          "path": "textures/skin_bronze.png",
+          "sha256": "095ced4229e103d0e3634a48057847c38516b7584bcfd8ee358513ffef9b823c",
+          "bytes": 34973
+        },
+        {
+          "path": "textures/skin_gray.png",
+          "sha256": "ca6cb85a0f18d9a2cf5d2ff20083acb37b8fb942e273e591aab4409b4bfbf020",
+          "bytes": 34841
+        },
+        {
+          "path": "textures/skin_green.png",
+          "sha256": "64ba83cd1f124223f4e15c492a71c27389b15be66811d938f5bff0f5ebf19ed4",
+          "bytes": 34931
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "ce644ff8fa195066ec7dc9acc343331e16a02643e11ce253a4f43a5e0b498001",
+          "bytes": 2304
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_stage3",
+      "element": "fire",
+      "stage": 3,
+      "display_name": "火龙女仆 · 四配色 · 阶段3",
+      "metadata_file": "dragon_maid_stage3/ysm.json",
+      "files": [
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "dda52137ea41f0d0ca7b6ba7f70292e3e836332fa1eae45c4715cc4f61d28146",
+          "bytes": 111479
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "46662607c4f82a108e3a8d27fbc4dccc92813cba03a3e5dc67994a7dadd15d48",
+          "bytes": 7286679
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "5fe2c319f60283a028a1949a64c2ff2e8b0c7e4de5a9a51cb4e2af50655d39dc",
+          "bytes": 1243995
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "e9d78e8c05eabac464463445c70046708a0b15f047a2e83d5b083a1bd47b39f2",
+          "bytes": 1113925
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "f58c4d841d786589658c6ab5c7056266eb429db8e8513bb7a1d6866c0ac7af19",
+          "bytes": 5070
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "2e689c58d1830c285a7e566cf041001fea895fbf9c780b4588e3adcf774f944f",
+          "bytes": 2346
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "e066de264269b55ec05500d5a67cae1a49962cd290c491f654991462415a8d64",
+          "bytes": 20226
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "f430e88b79616dc8f23a0b8febe793a180e0357ee54d9400342680bc758e60ad",
+          "bytes": 712024
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "27869f56aeb35a3c81cf5abdac44250f740e0865f49f4ce61ef7c364788efc23",
+          "bytes": 35575
+        },
+        {
+          "path": "textures/skin_bronze.png",
+          "sha256": "db6478e605f90ac3dfe9cd981c794b532c6b2a6f412247e5158755924b3b1da7",
+          "bytes": 36538
+        },
+        {
+          "path": "textures/skin_gray.png",
+          "sha256": "8dbc9fb52fecac4ae9b0165583b8b5db4a274598c4df2a39d86f5712d42aa520",
+          "bytes": 36533
+        },
+        {
+          "path": "textures/skin_green.png",
+          "sha256": "f1d4da62293c84dcbfdf4f4e23579f0405d3eb3d1657260b63c6c2f1ec63b640",
+          "bytes": 36446
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "9ff4ad126dc1ff164d906302799da571f88de2d016451afbe60eee8201ee08da",
+          "bytes": 4361
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_stage4",
+      "element": "fire",
+      "stage": 4,
+      "display_name": "火龙女仆 · 四配色 · 阶段4",
+      "metadata_file": "dragon_maid_stage4/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "45322e921200563bd9051bc33bd6bc8c24a119fe91b8c28ed4e203f5f2f35970",
+          "bytes": 117601
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "476725b6ec97b4220457ef4cc6a7a60d92dc2bc8255b40a7894e97eac8e93d08",
+          "bytes": 7160234
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "480ba8763c94d182e32d971490fd2fb30072f2dbac7f92beb1b3741f5a66bc81",
+          "bytes": 1286150
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "499868a54e34a7b491a85e274bd3c5736defa7a9c10d25c7f8a7ec7dfdf285c2",
+          "bytes": 1123177
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b5acce9f70596a8ea13a2b1f2dfb78bd640cf3bc198d1b289b38edc85522fa14",
+          "bytes": 5445
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "2e689c58d1830c285a7e566cf041001fea895fbf9c780b4588e3adcf774f944f",
+          "bytes": 2346
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "045a8793227a60ba5b6a7ca4d6f15306bb20884371cfeab694690210d7dbf803",
+          "bytes": 24430
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "581ab8e0fef8ce3aeeb9931536d6fd63d241717796dbe111c2c9bd132d0069b6",
+          "bytes": 178516
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "e045d27d6e00547af56b3e207dc71167c0ac17486c948276d1bd21c19e613579",
+          "bytes": 430525
+        },
+        {
+          "path": "textures/skin_bronze.png",
+          "sha256": "50de06ef72d7e53d743e8705eefe5a43e97f175deca87d34cc47ca98577f06ff",
+          "bytes": 432921
+        },
+        {
+          "path": "textures/skin_gray.png",
+          "sha256": "a986a68cfcb93a40c952508edbc155809007d7d24cfa5308c6e2bba1c3853e65",
+          "bytes": 433126
+        },
+        {
+          "path": "textures/skin_green.png",
+          "sha256": "635df48ca92aab6b6963514ad104cfdd42f2a803eb32f13fbd48356ed4a2b333",
+          "bytes": 432756
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "c5be14fde22835aaa3a074b84a261f8d02fe51c9ea5340f91820f74696c336e0",
+          "bytes": 4361
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_stage5",
+      "element": "fire",
+      "stage": 5,
+      "display_name": "火龙女仆 · 四配色 · 阶段5",
+      "metadata_file": "dragon_maid_stage5/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "5a169a72a2037a7e15be2584fd46485dc57ced4e59b5b63ed33400d9c5528947",
+          "bytes": 117649
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "36c86d22137f2474fe2452126cc37a765d9b19ed667867aac42d6559e4ad19f9",
+          "bytes": 6441927
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "054b7bde3860513a5f538b43f9c39af1bf3b7ef70f56cb21936cc07151b0d35b",
+          "bytes": 1271714
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "ca3855b38a32734805bb5b3d3a5d76f15ace7b6362176dd5550bf35e5b1e7a11",
+          "bytes": 1170358
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "2e689c58d1830c285a7e566cf041001fea895fbf9c780b4588e3adcf774f944f",
+          "bytes": 2346
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "81580ea3dd161ddd535e57666ca104c37ed5f0ae7b77c6be170333a844b5bb03",
+          "bytes": 6957
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "3a3371760ef25a52da0a97095b4eb6a8085f142e6a2b8752f9eeab4266aabd30",
+          "bytes": 183780
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "6217e0fb84a839117a7c499de90dda132881bfd911e6d34cd1d66be97f8de63f",
+          "bytes": 440573
+        },
+        {
+          "path": "textures/skin_bronze.png",
+          "sha256": "c906a9e9f079c08b5e2823e87af2310badd8aded76fe212eb8b8a3509902be99",
+          "bytes": 445338
+        },
+        {
+          "path": "textures/skin_gray.png",
+          "sha256": "8f5457fe3a8ececf8bf8746d5455d8ba93d07e6e1ce8d789a53e323a476b9538",
+          "bytes": 445190
+        },
+        {
+          "path": "textures/skin_green.png",
+          "sha256": "e0c1714a40eb6d5d5fe4efe8f5931f2e4872de08794f76fb37046e11aa5ba98b",
+          "bytes": 445410
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "714a2ed3c34d3641c20ce455b808b32086aab8163b54d195473e24dc0972d20d",
+          "bytes": 4248
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_ice_stage1",
+      "element": "ice",
+      "stage": 1,
+      "display_name": "冰龙女仆 · 四配色 · 阶段1",
+      "metadata_file": "dragon_maid_ice_stage1/ysm.json",
+      "files": [
+        {
+          "path": "17_mini原始署名与许可.json",
+          "sha256": "b52fe83a78a4c4cebdf8b738c92c8a9cde195bf9e475f7a1b1e9db50909ae39b",
+          "bytes": 3958
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "d2b81a98b1e2e343e7878bf2ffd4c0ed29d826c803d092957b1164c7f2b03ddb",
+          "bytes": 111538
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "acfcd53435c9f8ecf1c49c0bceac3df72cc74a3c16fddf6033105661e1a6385d",
+          "bytes": 5555279
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "4494f24312c63ede09a15f63f172274796498e75c7382cebd5ec62413c02627f",
+          "bytes": 546547
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "83d6da736f9aa03d5f9822d5829b17b44b2de1872cfdf6a8e1f48cd8b1695b7c",
+          "bytes": 1116021
+        },
+        {
+          "path": "avatar/1.png",
+          "sha256": "5022241f28fa33489f123cecdb1830b2064e589c90188b9a355be4bff65b8f67",
+          "bytes": 2758
+        },
+        {
+          "path": "avatar/y.png",
+          "sha256": "0c9b472e22ef2b966973f530e784dfe924ec819e3cf69006e8a1b1a8ff76c201",
+          "bytes": 1693
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "a53780d73638c37736eec0a4f509dd9b3ce3daf98d5c33f81e071e007afc7f23",
+          "bytes": 6137
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "dd19d85f772032abf375ffea7b3fb7ac7b2e92242c07b0f4e48867b60dc491c8",
+          "bytes": 3140
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "0537a7ca02f7c1aa6f077c773280fca2632d2567dcd2712ce29f7b06b9e60974",
+          "bytes": 3276
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "c80969006f8c68f7344c86a19ba4175a184c00b96285b21612cc3c66bf011dfd",
+          "bytes": 16164
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "1fdb8251959b7a491da7473dab5ebf2182237df29c34f60b17a6bb1ef70c36c9",
+          "bytes": 182146
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "e04fe5d015c2de50b458a0fcba3313327b5765462553bff9b0c64d92ac7448bc",
+          "bytes": 70955
+        },
+        {
+          "path": "textures/skin_sapphire.png",
+          "sha256": "2ab5cb4cbe240da28b5d1941bdefe5b5cca45f0d97f1a49f35b083e16463c701",
+          "bytes": 71860
+        },
+        {
+          "path": "textures/skin_silver.png",
+          "sha256": "291b7c298b95a4aacb0c2e8d38efa45065327fff6a8362c1de9fb8e949f576cd",
+          "bytes": 72019
+        },
+        {
+          "path": "textures/skin_white.png",
+          "sha256": "423446e68da272f81b4d78fec61fcefc51289d63d2a12bc1e96a0ddcb2c63b98",
+          "bytes": 71729
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "dd7e563f882a82d56044e1e9c39ada636cfdae83b867f53c00d824e72cbd7931",
+          "bytes": 3280
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_ice_stage2",
+      "element": "ice",
+      "stage": 2,
+      "display_name": "冰龙女仆 · 四配色 · 阶段2",
+      "metadata_file": "dragon_maid_ice_stage2/ysm.json",
+      "files": [
+        {
+          "path": "12_little原始署名与许可.json",
+          "sha256": "cc46d764c6d01d476c427421a8c402a0bfb33fc41175e068da3974b72d40f368",
+          "bytes": 2508
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "a9c40e06d2b5d2557301a79c01187f6ab0c948535e06ae2deba1a916fa1aa1c3",
+          "bytes": 111372
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "f1388e04824c3d8d6cface34ba8caa492e2cbc4bf83074df623c7922add077b1",
+          "bytes": 5602709
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "7680f1f239562bdd71e8042f96801e51bf5cff90a8742fbc9e067cd7fd946754",
+          "bytes": 735035
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "2c76d3813c5aa20b9d011eef67f17697e425d047f31594a2941e51418f882d6f",
+          "bytes": 1115132
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/ry.png",
+          "sha256": "38676f6ab126383b35b05846fec4f3f0d0012c06d0ff0a841fa01df0ae1aa3ac",
+          "bytes": 44859
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "a53780d73638c37736eec0a4f509dd9b3ce3daf98d5c33f81e071e007afc7f23",
+          "bytes": 6137
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "bacd8030da58f5c0e0669192d0435609b48bace1f7f05465be881cc19b294899",
+          "bytes": 831
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "32788a5491f92d6cd3e4dc5fa42b6a01091151f5f53c55fa649c0f5ed57108fe",
+          "bytes": 1020
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "01b3f4c8cbb164ed7bf4904c5589509f2c971f1456af1ca2abae7b2657e8d90a",
+          "bytes": 21522
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "dc45510e2968818db7a8936e79cdfc71bafc5afd25a414a28a42eea8fc5054b8",
+          "bytes": 151020
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "ad662271f17579519f004f19d1ed33a44e2b7aa56a58d84ecd0086d6bc0f9e83",
+          "bytes": 30268
+        },
+        {
+          "path": "textures/skin_sapphire.png",
+          "sha256": "53c6611ed2253cbb6d1ec99f330eae873c3dea97cf00045d908a535ce059947c",
+          "bytes": 30636
+        },
+        {
+          "path": "textures/skin_silver.png",
+          "sha256": "2c4db10ac192d11c053f2514a06bbf71fba601202dcdd35969ae9fe541059ac8",
+          "bytes": 30583
+        },
+        {
+          "path": "textures/skin_white.png",
+          "sha256": "4329b31dc15b855d3312b1b077b423815ea4dadaefee8d4a2bce6cb6a93f2eb6",
+          "bytes": 30563
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "276e278ed08cb77edab20e3177d5189a82890a3b56d083d7f4df08a47202aa4f",
+          "bytes": 2308
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_ice_stage3",
+      "element": "ice",
+      "stage": 3,
+      "display_name": "冰龙女仆 · 四配色 · 阶段3",
+      "metadata_file": "dragon_maid_ice_stage3/ysm.json",
+      "files": [
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "dda52137ea41f0d0ca7b6ba7f70292e3e836332fa1eae45c4715cc4f61d28146",
+          "bytes": 111479
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "9b4a6f1a3846b6377b94e6143e5d046426e6d4a2e333ada3d3dc024f1e4122ef",
+          "bytes": 7438847
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "5fe2c319f60283a028a1949a64c2ff2e8b0c7e4de5a9a51cb4e2af50655d39dc",
+          "bytes": 1243995
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "e9d78e8c05eabac464463445c70046708a0b15f047a2e83d5b083a1bd47b39f2",
+          "bytes": 1113925
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "f23a162f809bc7c73129c7d3f696b2908e480dd71e403e43d1fa4a907b3df1f5",
+          "bytes": 6143
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "08497830a2f800fd5f2ae19ee13dcad8c3105fdfd7f7ca0160775cbdbcae747c",
+          "bytes": 2302
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "31afee871c6a0e7056e0e09ecb22c529f6403cbe27060eb712d38e8f038ff21c",
+          "bytes": 21381
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "b967e63bbdc11a44ba9d069a10e4f83200e912c884211632e821e93153622418",
+          "bytes": 728407
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "086f398e45c0d1c23a1beca66593368a36d8b78624ee318679bc31be92734467",
+          "bytes": 35051
+        },
+        {
+          "path": "textures/skin_sapphire.png",
+          "sha256": "03c5f0fb0d5801555576b37976312c622e6a49e303c050bbca6afdea2c69cfa7",
+          "bytes": 35813
+        },
+        {
+          "path": "textures/skin_silver.png",
+          "sha256": "cc88a9d11e22cd5c2bdd8913ee0dcde2899f935e2ba1e15502ef6e9fccaf936a",
+          "bytes": 35853
+        },
+        {
+          "path": "textures/skin_white.png",
+          "sha256": "c20b848b87bb5a72828f497c98e5bc30f6d643d5392f44f9326ce8b8711e7873",
+          "bytes": 35649
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "ca83547792394bb7d7954c822a6fac54d0dbc1e91c0f626bd6562bf8b94ff1c2",
+          "bytes": 4365
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_ice_stage4",
+      "element": "ice",
+      "stage": 4,
+      "display_name": "冰龙女仆 · 四配色 · 阶段4",
+      "metadata_file": "dragon_maid_ice_stage4/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "45322e921200563bd9051bc33bd6bc8c24a119fe91b8c28ed4e203f5f2f35970",
+          "bytes": 117601
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "213a3cdf304c67646cbe5485cae83464f92296a785dc28dbc8026b81049c4361",
+          "bytes": 7334316
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "480ba8763c94d182e32d971490fd2fb30072f2dbac7f92beb1b3741f5a66bc81",
+          "bytes": 1286150
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "499868a54e34a7b491a85e274bd3c5736defa7a9c10d25c7f8a7ec7dfdf285c2",
+          "bytes": 1123177
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "9fdd68bc9895540b6668d27daa6787e6aaa4132b5d3074d0d4f65107f347850c",
+          "bytes": 6518
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "08497830a2f800fd5f2ae19ee13dcad8c3105fdfd7f7ca0160775cbdbcae747c",
+          "bytes": 2302
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "0635868db70f1115aa806f4961ca0e97a91e2fea525c200f52d2a423bd9a6c06",
+          "bytes": 25676
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "388aafd0a746745cb0666178c28e5e6cf52e0cc7f263c5b4a2e453befb1b17f4",
+          "bytes": 182194
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "183271bf5c52da9280e551fc8eaef049fa66d258fc0470a8ccac30fce05f1b45",
+          "bytes": 431314
+        },
+        {
+          "path": "textures/skin_sapphire.png",
+          "sha256": "01253b8397a8aedfb5067721cd39882f1fed2743a83cde1ebf5d341d456d07d9",
+          "bytes": 432574
+        },
+        {
+          "path": "textures/skin_silver.png",
+          "sha256": "de09ac00963e22ebca4fa0017aaf9bc021b8eb739c01f194a850145c371a3987",
+          "bytes": 432686
+        },
+        {
+          "path": "textures/skin_white.png",
+          "sha256": "f9991ef0e83a7ecac12aab787920e4340b9c2e87b4d88c8f18011d950d069ffb",
+          "bytes": 432444
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "aeb39c03458030457b8c6ebb38a510e6f0f5b24e7b53f7ba36bba4b748ce41a6",
+          "bytes": 4365
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_ice_stage5",
+      "element": "ice",
+      "stage": 5,
+      "display_name": "冰龙女仆 · 四配色 · 阶段5",
+      "metadata_file": "dragon_maid_ice_stage5/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "5a169a72a2037a7e15be2584fd46485dc57ced4e59b5b63ed33400d9c5528947",
+          "bytes": 117649
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "4161532c81e40fdca3756fb8ecc78b699b25dc9946c6fa45d00cd3d140160b50",
+          "bytes": 6616951
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "054b7bde3860513a5f538b43f9c39af1bf3b7ef70f56cb21936cc07151b0d35b",
+          "bytes": 1271714
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "ca3855b38a32734805bb5b3d3a5d76f15ace7b6362176dd5550bf35e5b1e7a11",
+          "bytes": 1170358
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "a53780d73638c37736eec0a4f509dd9b3ce3daf98d5c33f81e071e007afc7f23",
+          "bytes": 6137
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "08497830a2f800fd5f2ae19ee13dcad8c3105fdfd7f7ca0160775cbdbcae747c",
+          "bytes": 2302
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "0b7b9993604fbac41df81f1ffbbd363359f6dec5e6974d0e6a82142cf1ec1621",
+          "bytes": 20427
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "17e43220e7634741d2d976fbbc4e38d88ec387722a584b943f82a6182b484893",
+          "bytes": 195216
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "418c0f0d35e1198ac6f103c66634524370563e15f0800baf71f29390eb3bca88",
+          "bytes": 432900
+        },
+        {
+          "path": "textures/skin_sapphire.png",
+          "sha256": "c7d50ad41820d0a33a71c17e9acc9da477985334367ac1e408e0089a1961352d",
+          "bytes": 434545
+        },
+        {
+          "path": "textures/skin_silver.png",
+          "sha256": "d5afc79fb04a38ad20fd2e89330c310d5c5d5fc902c6027dab2b6b866aa0ba10",
+          "bytes": 434794
+        },
+        {
+          "path": "textures/skin_white.png",
+          "sha256": "0d97e765b52cf35ad93324ead32ffd69d61082eb3f2339e05efdffbd206a82ca",
+          "bytes": 434343
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "2d8df5b92146577be0d3cc0b398ece2404f26612e4c2779b598e46aedf43a031",
+          "bytes": 4252
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_lightning_stage1",
+      "element": "lightning",
+      "stage": 1,
+      "display_name": "雷龙女仆 · 四配色 · 阶段1",
+      "metadata_file": "dragon_maid_lightning_stage1/ysm.json",
+      "files": [
+        {
+          "path": "17_mini原始署名与许可.json",
+          "sha256": "b52fe83a78a4c4cebdf8b738c92c8a9cde195bf9e475f7a1b1e9db50909ae39b",
+          "bytes": 3958
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "d2b81a98b1e2e343e7878bf2ffd4c0ed29d826c803d092957b1164c7f2b03ddb",
+          "bytes": 111538
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "e9bc2b0867898758a7b350b4e01920ecf4b30f39b688f831f69697ef0c7d216b",
+          "bytes": 5357637
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "4494f24312c63ede09a15f63f172274796498e75c7382cebd5ec62413c02627f",
+          "bytes": 546547
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "83d6da736f9aa03d5f9822d5829b17b44b2de1872cfdf6a8e1f48cd8b1695b7c",
+          "bytes": 1116021
+        },
+        {
+          "path": "avatar/1.png",
+          "sha256": "5022241f28fa33489f123cecdb1830b2064e589c90188b9a355be4bff65b8f67",
+          "bytes": 2758
+        },
+        {
+          "path": "avatar/y.png",
+          "sha256": "0c9b472e22ef2b966973f530e784dfe924ec819e3cf69006e8a1b1a8ff76c201",
+          "bytes": 1693
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "dd19d85f772032abf375ffea7b3fb7ac7b2e92242c07b0f4e48867b60dc491c8",
+          "bytes": 3140
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "a9d3db6236bf7821c1497bd759343e3f2468f4a1613067623931fe06238a6eaf",
+          "bytes": 3276
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "c35ae375d6257731e3765e91118672e1b78ae3305390d786ea0f5ca21ee5a3d8",
+          "bytes": 16155
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "479626222cad3c59024f6b95580d2f496c39daff3ae5a285100f9e685d35f23d",
+          "bytes": 180806
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "2eef0856c9a5cc44a62a327b0d5f51f91ac6d455a2dad08e80a91a3d32f03505",
+          "bytes": 71869
+        },
+        {
+          "path": "textures/skin_black.png",
+          "sha256": "0a0a041a3e037c9cf8e2451459e4ef9a6eba58e0e19f308c05c51cdf7388d351",
+          "bytes": 72642
+        },
+        {
+          "path": "textures/skin_copper.png",
+          "sha256": "591ffad1b8054fed777e27b5cffc0926167396dda4c8f58a5e6deaae0945b384",
+          "bytes": 72744
+        },
+        {
+          "path": "textures/skin_electric.png",
+          "sha256": "9a188da953102776f33e6c624aab5558486f16f9d1b5e7e8988597514a19e494",
+          "bytes": 72439
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "79f7799fc936ddc0bbc38dd92df7e05aa119733cc7c3c6a91b3bf6ca633aac20",
+          "bytes": 3280
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_lightning_stage2",
+      "element": "lightning",
+      "stage": 2,
+      "display_name": "雷龙女仆 · 四配色 · 阶段2",
+      "metadata_file": "dragon_maid_lightning_stage2/ysm.json",
+      "files": [
+        {
+          "path": "12_little原始署名与许可.json",
+          "sha256": "cc46d764c6d01d476c427421a8c402a0bfb33fc41175e068da3974b72d40f368",
+          "bytes": 2508
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "a9c40e06d2b5d2557301a79c01187f6ab0c948535e06ae2deba1a916fa1aa1c3",
+          "bytes": 111372
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "8929e4a792d2e46c257b9fa3a6084b1ae532d45ffad34cdcbd8367855edad823",
+          "bytes": 5416011
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "7680f1f239562bdd71e8042f96801e51bf5cff90a8742fbc9e067cd7fd946754",
+          "bytes": 735035
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "2c76d3813c5aa20b9d011eef67f17697e425d047f31594a2941e51418f882d6f",
+          "bytes": 1115132
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/ry.png",
+          "sha256": "38676f6ab126383b35b05846fec4f3f0d0012c06d0ff0a841fa01df0ae1aa3ac",
+          "bytes": 44859
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "bacd8030da58f5c0e0669192d0435609b48bace1f7f05465be881cc19b294899",
+          "bytes": 831
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "9f3a13fee62a9a2de6169a6a1762e9e72a823ee92aa2c661189991daf0e11244",
+          "bytes": 1020
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "41ca2083094290e0af69025c490d0d23279385226c3ed3344b9c98871cb2c1ad",
+          "bytes": 21527
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "3a7a384a7b24891832ca3450869517ab6b27f51e8fff2b44bf70e23e3c5c66ef",
+          "bytes": 149649
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "59de10bdeb86157aa004e6b69b8a611ee801d6be14611cdb8e22e381a15025e5",
+          "bytes": 31543
+        },
+        {
+          "path": "textures/skin_black.png",
+          "sha256": "c9f86286a420298851ba47040b2951245ab170d353c2543270aee527526a876a",
+          "bytes": 31626
+        },
+        {
+          "path": "textures/skin_copper.png",
+          "sha256": "e012eaa26709d7d597858ede998a65b563a7ad7628e28c824c89b645b6436469",
+          "bytes": 31719
+        },
+        {
+          "path": "textures/skin_electric.png",
+          "sha256": "1907c4dc2f497e3bf4e94f87b3d2e97fd7629083a28c9649bc6f16660969be2e",
+          "bytes": 31636
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "5f50773019609b53d0791f0415cd6046aad372ba98ebfd3474e04a2278265a64",
+          "bytes": 2308
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "阶段三沿用资源署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_lightning_stage3",
+      "element": "lightning",
+      "stage": 3,
+      "display_name": "雷龙女仆 · 四配色 · 阶段3",
+      "metadata_file": "dragon_maid_lightning_stage3/ysm.json",
+      "files": [
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "dda52137ea41f0d0ca7b6ba7f70292e3e836332fa1eae45c4715cc4f61d28146",
+          "bytes": 111479
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "c65db3f5d72c7a6428bb3fa3e71dfeea55f45f2bb8d8ab76b93d37f4c838dcef",
+          "bytes": 7308473
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "5fe2c319f60283a028a1949a64c2ff2e8b0c7e4de5a9a51cb4e2af50655d39dc",
+          "bytes": 1243995
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "e9d78e8c05eabac464463445c70046708a0b15f047a2e83d5b083a1bd47b39f2",
+          "bytes": 1113925
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "f58c4d841d786589658c6ab5c7056266eb429db8e8513bb7a1d6866c0ac7af19",
+          "bytes": 5070
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "7adfbdc757ddc7e879fb14ec179a279923e49f43564ebcca1df459d428daa10e",
+          "bytes": 2350
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "c9fabfe50322f9eac9e568069f6d56b3f6b8abed69754d1572b65cfb78393f61",
+          "bytes": 20245
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "bffd3488f8e2c7ce1bcae2fb668c3d7b0f8b7a4990d43a000116851163b05542",
+          "bytes": 743659
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "6f035d038e86c04c9dc41c06a5cbe8685f6ef677aa591210dfa4d7377dc3c9fa",
+          "bytes": 37829
+        },
+        {
+          "path": "textures/skin_black.png",
+          "sha256": "72d4650f50697d2014e4e16e781dad05c4cd1959153da0e0f3da631c3c1c950a",
+          "bytes": 38762
+        },
+        {
+          "path": "textures/skin_copper.png",
+          "sha256": "27fa2bad69943e19d4aadce5c5918d0f9f0ecb7dc989cd1c192324ee75b8411b",
+          "bytes": 39108
+        },
+        {
+          "path": "textures/skin_electric.png",
+          "sha256": "3d49e1e2d6eddc031e683547392a701ab609ed2a644b084e41d91979f69f5345",
+          "bytes": 39134
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "d639e88cced6938528e9500a9532aba34badc5ab7dff1adaa19eac3607458b01",
+          "bytes": 4365
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_lightning_stage4",
+      "element": "lightning",
+      "stage": 4,
+      "display_name": "雷龙女仆 · 四配色 · 阶段4",
+      "metadata_file": "dragon_maid_lightning_stage4/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "45322e921200563bd9051bc33bd6bc8c24a119fe91b8c28ed4e203f5f2f35970",
+          "bytes": 117601
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "026a81e8c4f45196c03cceea478b2cb1b8401c9f42cfe6a953a226afcca73363",
+          "bytes": 7150393
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "480ba8763c94d182e32d971490fd2fb30072f2dbac7f92beb1b3741f5a66bc81",
+          "bytes": 1286150
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "499868a54e34a7b491a85e274bd3c5736defa7a9c10d25c7f8a7ec7dfdf285c2",
+          "bytes": 1123177
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b5acce9f70596a8ea13a2b1f2dfb78bd640cf3bc198d1b289b38edc85522fa14",
+          "bytes": 5445
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "7adfbdc757ddc7e879fb14ec179a279923e49f43564ebcca1df459d428daa10e",
+          "bytes": 2350
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "9f0022060c42c57388ba56785da3990ab2606df489e52f04f9629a9a3351912f",
+          "bytes": 24502
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "8706a1606eb0b3f40ad45bc4369177c9e0a9e7b6ae90f57d6ac7c08913ec5ea9",
+          "bytes": 186419
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "4de4f53bb6386ea3cd2935d893031763eac14abc16158e6f416199bf34bb33e6",
+          "bytes": 429464
+        },
+        {
+          "path": "textures/skin_black.png",
+          "sha256": "0828462c3941f84a5afd52544c1987b5e9eecebeb6c501624f17e4063ea90de5",
+          "bytes": 430395
+        },
+        {
+          "path": "textures/skin_copper.png",
+          "sha256": "0c62245ffb3d0ae89747d5fe10891876aff83d7450beea1d8f93b366c63b2a3d",
+          "bytes": 430906
+        },
+        {
+          "path": "textures/skin_electric.png",
+          "sha256": "6ccc64994a2747646693ace590a0409adeed83afd6dcb1e26570e69086f2e3f0",
+          "bytes": 430939
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "4a2afa402e6be87847c7d01db1ea4fec15196520c8a233a6cf948bfdb59f00ea",
+          "bytes": 4365
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "folder": "dragon_maid_lightning_stage5",
+      "element": "lightning",
+      "stage": 5,
+      "display_name": "雷龙女仆 · 四配色 · 阶段5",
+      "metadata_file": "dragon_maid_lightning_stage5/ysm.json",
+      "files": [
+        {
+          "path": "13_matured参考署名与许可.json",
+          "sha256": "60228a5fe493050e96d397377e548a217af4cc954f155d25b5d4b3e5ec7a9a8f",
+          "bytes": 1728
+        },
+        {
+          "path": "animations/carryon.animation.json",
+          "sha256": "5a169a72a2037a7e15be2584fd46485dc57ced4e59b5b63ed33400d9c5528947",
+          "bytes": 117649
+        },
+        {
+          "path": "animations/dragon.animation.json",
+          "sha256": "42a7ec8356a4a48720598a80bbe9b27a36407291e21adff9378847448bf1b0d5",
+          "bytes": 6441210
+        },
+        {
+          "path": "animations/extra.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/main.animation.json",
+          "sha256": "054b7bde3860513a5f538b43f9c39af1bf3b7ef70f56cb21936cc07151b0d35b",
+          "bytes": 1271714
+        },
+        {
+          "path": "animations/tac.animation.json",
+          "sha256": "e36379fc3289c87f21704f72b97a7166fafd6cd8b2ec04e14e997fe56faf9003",
+          "bytes": 54
+        },
+        {
+          "path": "animations/tlm.animation.json",
+          "sha256": "ca3855b38a32734805bb5b3d3a5d76f15ace7b6362176dd5550bf35e5b1e7a11",
+          "bytes": 1170358
+        },
+        {
+          "path": "avatar/bfxm.jpg",
+          "sha256": "41fb944b9d083ff69e1edc2ba69cf44d444f5645a4e1114026f1c9ad3ef6025f",
+          "bytes": 5466
+        },
+        {
+          "path": "avatar/gsl.png",
+          "sha256": "dbfee9f254d512bad28db7f7e23d631d4aa450cbe42a31d1e2ed3a756f16f4a1",
+          "bytes": 17212
+        },
+        {
+          "path": "avatar/hl.png",
+          "sha256": "80f61d49f385faf974b8b3e579b6b307b9046992f1d3ae32647e8676102d5fa3",
+          "bytes": 5216
+        },
+        {
+          "path": "avatar/hys.png",
+          "sha256": "6dda47283fff88a4ed4ec07509de852b473cc97170e560b71f10339c2ab14ecf",
+          "bytes": 5773
+        },
+        {
+          "path": "avatar/lmg.png",
+          "sha256": "0d05a6be0b1ffb32f6497265f7411b7741f18ae89a82e82a4982e39ba4183fa4",
+          "bytes": 2984
+        },
+        {
+          "path": "avatar/maks.jpg",
+          "sha256": "836e8432f93fd41b5e6d19eb97a89027faf78e1ffa3758b489592f7f4a86ec9c",
+          "bytes": 4744
+        },
+        {
+          "path": "avatar/mrsy.png",
+          "sha256": "1d5f4b48bda1349a1f5f7ceb5de981dfc4590f6a766574d3db5323290e4010eb",
+          "bytes": 5984
+        },
+        {
+          "path": "avatar/nico.png",
+          "sha256": "c4dc33bb154086be5c4ea25c3638257de58713a7ba5e198b05235e4252074f09",
+          "bytes": 2366
+        },
+        {
+          "path": "avatar/wmdj.jpg",
+          "sha256": "ffabb00e0bb3328749e1d5ac542a8d2f36ce8dba291469976068e36b6fb9b8c7",
+          "bytes": 5154
+        },
+        {
+          "path": "avatar/wool.png",
+          "sha256": "98eb2c163ca5c7beac09a80d892df1fd414ff102dd8f85c428d99ff15f85ea9d",
+          "bytes": 6683
+        },
+        {
+          "path": "controller/dragon_flight.json",
+          "sha256": "b137af0a49c0a860cfd851960ad7417be074083aca8dce986507beef1f7ec589",
+          "bytes": 5064
+        },
+        {
+          "path": "controller/wine_fox.animation_controllers.json",
+          "sha256": "6cfffe227e58f254d5001cfc473ef32cafa9cabfd8c6be30ece71add58f5692d",
+          "bytes": 1601
+        },
+        {
+          "path": "lang/en_us.json",
+          "sha256": "417edfd996633b7a406e172cc5bda1ef21c4fd5b92587ca5ee61b3bf706f1933",
+          "bytes": 2287
+        },
+        {
+          "path": "lang/zh_cn.json",
+          "sha256": "7adfbdc757ddc7e879fb14ec179a279923e49f43564ebcca1df459d428daa10e",
+          "bytes": 2350
+        },
+        {
+          "path": "models/arm.json",
+          "sha256": "4dfe00fde074e1665acba2bebbe8009850d476eac09e7170f5f068e80b238356",
+          "bytes": 20276
+        },
+        {
+          "path": "models/main.json",
+          "sha256": "2589a64b20abc4d5d783cc401de2fae1ea9444372a8a37137f38694629b91f8b",
+          "bytes": 203551
+        },
+        {
+          "path": "sounds/car_idle.ogg",
+          "sha256": "906d2c14001168b1387c87623b0335c43dc2d49309f382f084f822966c32aa1a",
+          "bytes": 76211
+        },
+        {
+          "path": "sounds/car_run.ogg",
+          "sha256": "70ec38e95609d72c24ad5a7ca3a592b6da805e9952f03c86dc4902abe3fc8e23",
+          "bytes": 166833
+        },
+        {
+          "path": "sounds/get_down.ogg",
+          "sha256": "63dbf11be085953b3232710552f049df9465c1a15327cd083ecaa0f726cba86c",
+          "bytes": 289223
+        },
+        {
+          "path": "sounds/otoko_wa_tsurai_yo.ogg",
+          "sha256": "53dc18199056bc254a8e664483b4adbcf3317bee5d1182435323c6cc4960b191",
+          "bytes": 298472
+        },
+        {
+          "path": "sounds/zufolo_impazzito.ogg",
+          "sha256": "ee80cfe3f9ad70f2bd6b3b735d65c5c356c1119c67c8da4d812c838058ca6990",
+          "bytes": 172286
+        },
+        {
+          "path": "textures/skin.png",
+          "sha256": "ad1b90fb2f082f6821fb50458c5005901327c2c227388464489b0c8d8b97ce25",
+          "bytes": 436891
+        },
+        {
+          "path": "textures/skin_black.png",
+          "sha256": "6c6c5fc7bca833577d079abb2b042c7c004314bd8062556f4250910b7d61179f",
+          "bytes": 440769
+        },
+        {
+          "path": "textures/skin_copper.png",
+          "sha256": "8d2c283b887353994fdaa09ff98a6965fc7cab3a5a5a3e496614f9fb2c20f985",
+          "bytes": 441046
+        },
+        {
+          "path": "textures/skin_electric.png",
+          "sha256": "7d9d52246a077f7ef8e14fa29901c6b21b932ac2efc7a445177da3efefe573ce",
+          "bytes": 441139
+        },
+        {
+          "path": "ysm.json",
+          "sha256": "6734c69cc1b2cbb672ff8442646aa9e5d467e0645e9502650c01a42af034af47",
+          "bytes": 4252
+        },
+        {
+          "path": "YSM默认参考署名与许可.json",
+          "sha256": "4106421c3f609e22192a3ed97afe8bf1cbed3220a6f02dceaa819b120a4b9501",
+          "bytes": 1629
+        },
+        {
+          "path": "酒狐原始署名与许可.json",
+          "sha256": "e856ede164ba3ef286e4cadb84ca77daf6020f65272756d84eeb2efb7129340d",
+          "bytes": 3066
+        }
+      ]
+    }
+  ]
+}
