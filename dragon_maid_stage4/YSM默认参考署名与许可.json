@@ -1,0 +1,63 @@
+{
+  "name": "Default",
+  "tips": "默认模型（Default Model）",
+  "license": {
+    "type": "CC 0"
+  },
+  "authors": [
+    {
+      "name": "哥斯拉",
+      "role": "模型",
+      "avatar": "avatar/gsl.png",
+      "contact": {
+        "Afdian": "https://afdian.com/a/6TGESILA",
+        "Bilibili": "https://space.bilibili.com/17798027"
+      },
+      "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+    },
+    {
+      "name": "端木一动不动",
+      "role": "动画",
+      "avatar": "avatar/dm.png",
+      "comment": "永远都在ing"
+    },
+    {
+      "name": "甜粽子",
+      "role": "动画",
+      "avatar": "avatar/tzz.png",
+      "comment": "(ᗜˬᗜ)"
+    },
+    {
+      "name": "星屑海螺",
+      "role": "动画",
+      "avatar": "avatar/hl.png",
+      "contact": {
+        "Afdian": "https://afdian.com/a/lucia2048",
+        "Bilibili": "https://space.bilibili.com/14975572"
+      },
+      "comment": "漂泊于群星之中"
+    },
+    {
+      "name": "蓝玫瑰",
+      "role": "材质/模型",
+      "avatar": "avatar/lmg.png",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/11814817"
+      },
+      "comment": "8月24号，传奇永不落幕"
+    },
+    {
+      "name": "艾雷克亚",
+      "role": "铁魔法动画",
+      "avatar": "avatar/arekya.jpg",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/480946180"
+      },
+      "comment": "发癫"
+    }
+  ],
+  "link": {
+    "home": "https://modrinth.com/mod/yes-steve-model",
+    "donate": "https://afdian.com/a/ysmmod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "properties.extra_animation.extra1": "打招呼",
+  "properties.extra_animation.extra2": "鼓掌",
+  "properties.extra_animation.extra5": "摇尾卖萌",
+  "files.player.texture.skin_electric": "电青",
+  "files.player.texture.skin": "晶紫",
+  "files.player.texture.skin_copper": "铜赤",
+  "files.player.texture.skin_black": "夜黑"
+}

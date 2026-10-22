@@ -1,0 +1,7 @@
+# .bbmodel 源文件合计约 938 MB，按本次发布范围不纳入仓库
+*.bbmodel
+
+# 系统与编辑器杂项
+Thumbs.db
+desktop.ini
+.DS_Store

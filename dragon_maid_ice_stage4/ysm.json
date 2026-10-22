@@ -1,0 +1,105 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "冰龙女仆 · 四配色 · 阶段4",
+    "tips": "她喜欢吃热的东西，可是吃多了会胃疼，但不吃多不太可能。\n\n改模自【大正女仆酒狐】。",
+    "license": {
+      "type": "CC BY-NC-SA 4.0"
+    },
+    "authors": [
+      {
+        "name": "完美冻结",
+        "role": "模型原作",
+        "avatar": "avatar/wmdj.jpg",
+        "contact": {
+          "Afdian": "https://afdian.com/a/6TGESILA",
+          "Bilibili": "https://space.bilibili.com/17798027"
+        },
+        "comment": "OwO"
+      },
+      {
+        "name": "星屑海螺",
+        "role": "动画原作",
+        "avatar": "avatar/hl.png",
+        "contact": {
+          "Afdian": "https://afdian.com/a/lucia2048",
+          "Bilibili": "https://space.bilibili.com/14975572"
+        },
+        "comment": "漂泊于群星之中"
+      },
+      {
+        "name": "哥斯拉（映素团队）",
+        "role": "模型修改原作",
+        "avatar": "avatar/gsl.png",
+        "contact": {
+          "Afdian": "https://afdian.com/a/6TGESILA",
+          "Bilibili": "https://space.bilibili.com/17798027"
+        },
+        "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+      },
+      {
+        "name": "LTlspl",
+        "avatar": "avatar/我的头像.png",
+        "role": "模型/动画",
+        "comment": "被chatgpt小姐气昏"
+      },
+      {
+        "name": "chatgpt小姐",
+        "avatar": "avatar/chatgpt的头像.png",
+        "role": "模型/动画修改",
+        "comment": "是chatgpt小姐"
+      }
+    ],
+    "link": {
+      "home": "https://modrinth.com/mod/yes-steve-model"
+    }
+  },
+  "properties": {
+    "preview_animation": "gui",
+    "disable_preview_rotation": true,
+    "free": true,
+    "height_scale": 1,
+    "width_scale": 1,
+    "render_layers_first": false,
+    "all_cutout": false,
+    "gui_no_lighting": false,
+    "default_texture": "skin",
+    "extra_animation": {
+      "extra1": "打招呼",
+      "extra2": "鼓掌",
+      "extra3": "Get Down",
+      "extra4": "乱舞",
+      "extra5": "卖萌",
+      "extra6": "御笔摇",
+      "extra7": "舞蹈"
+    }
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "animation": {
+        "main": "animations/dragon.animation.json"
+      },
+      "texture": [
+        {
+          "uv": "textures/skin.png"
+        },
+        {
+          "uv": "textures/skin_white.png"
+        },
+        {
+          "uv": "textures/skin_sapphire.png"
+        },
+        {
+          "uv": "textures/skin_silver.png"
+        }
+      ],
+      "animation_controllers": [
+        "controller/dragon_flight.json"
+      ]
+    }
+  }
+}
